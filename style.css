@@ -1,0 +1,31 @@
+h1 {
+    color: blueviolet
+}
+
+/* * {
+    border: solid
+} */
+
+.header{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background: color #808080;;
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    
+}
+.site-description{
+    text-align: center;
+    color: #233423 ;
+}
+.footer{
+    justify-content:flex-end;
+    display:flex;
+}
+body{
+    background-color: #098;
+}
